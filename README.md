@@ -99,7 +99,7 @@ wpctl status
 
 Tested on:
 - Ubuntu 24.04 LTS (Wayland, GNOME, PipeWire)
-- Kernel 6.8 and 6.17 (HWE)
+- Kernel 6.8 (6.17 HWE not yet tested with StreamCam)
 - OBS Studio with PipeWire screen capture
 
 ## Related
